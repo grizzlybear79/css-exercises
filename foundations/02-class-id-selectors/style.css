@@ -1,0 +1,15 @@
+.pink{
+    background-color: hsla(0, 100%, 65%, 0.454);
+    font-family:Verdana,"DejaVu sans", sans-serif;
+}
+#number2{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#number4{
+    background-color: rgba(0, 172, 0, 0.596);
+    font-weight: bold;
+}
